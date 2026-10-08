@@ -1,0 +1,4 @@
+Dog inherits Animal
+
+bark()
+speak() = "Woof"

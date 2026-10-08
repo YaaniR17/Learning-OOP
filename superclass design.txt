@@ -1,0 +1,15 @@
+  
+                     Person         
+                
+                 - name : string       
+                 - age  : int          
+                 - ID   : int          
+                
+                   displayInfo()
+                                        
+	Student              	 Staff         
+
+ - course : string              - job_title : string  
+ - year   : int                 - salary    : float   
+
+  study()                        work()              

@@ -1,0 +1,8 @@
+Animal Superclass
+
+name : string
+age  : int
+
+speak()
+eat()
+sleep()

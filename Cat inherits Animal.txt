@@ -1,0 +1,4 @@
+Cat inherits Animal
+
+purr()
+speak() = "Meow"

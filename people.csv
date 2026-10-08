@@ -1,0 +1,5 @@
+type,name,age,id,course_or_job,
+student,Ayaan,18,298496,Software Development
+staff,Michael,42,123456,Software Development Teacher
+student,Artin,17,212422,Cyber Security
+staff,Richard,40,221198,Software Development Teacher
